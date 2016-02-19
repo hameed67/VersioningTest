@@ -1,1 +1,2 @@
-s
+Hello, my name is Alejandro
+I love to play video games.
